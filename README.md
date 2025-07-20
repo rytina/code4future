@@ -4,6 +4,7 @@ Diese Repository enthält ein Konzept und Referenzen für einen einjährigen Inf
 
 Inspiriert von:
 * https://codeforfuture.eu
+* https://hacker-school.de
 * https://education.minecraft.net
 * https://code.org
 
