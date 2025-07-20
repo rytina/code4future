@@ -2,6 +2,11 @@
 
 Diese Repository enthält ein Konzept und Referenzen für einen einjährigen Informatik Lehrplan in der Mittelstufe.
 
+Inspiriert von:
+* https://codeforfuture.eu
+* https://education.minecraft.net
+* https://code.org
+
 ---
 
 ### Mögliche Phasen für ein Informatik-Lehrplan
