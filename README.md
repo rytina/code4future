@@ -1,6 +1,6 @@
 # code4future
 
-**code4future** ist ein Bildungsprojekt für Kinder und Jugendliche, das sich gezielt an Lernende richtet, die nicht aus technikaffinen oder bildungsnahen Haushalten stammen. Ziel ist es, allen jungen Menschen – unabhängig von ihrer sozialen Herkunft – den Zugang zur digitalen Welt zu ermöglichen. Statt mit abstrakter Theorie zu überfordern, setzt code4future auf spielerische Zugänge, sprechende Metaphern und vertraute Lernumgebungen wie Minecraft. So wird der Einstieg ins Programmieren nicht nur verständlich, sondern auch motivierend gestaltet. Kinder werden darin gestärkt, digitale Kompetenzen selbstbewusst zu entwickeln und aktiv an der digitalen Gesellschaft teilzunehmen – als kreative Gestalter*innen ihrer Zukunft.
+**code4future** ist ein Bildungsprojekt für Kinder und Jugendliche, das sich gezielt an Lernende richtet, die nicht aus technikaffinen oder bildungsnahen Haushalten stammen. Ziel ist es, allen jungen Menschen – unabhängig von ihrer sozialen Herkunft – den Zugang zur Programmierung zu ermöglichen. Statt mit abstrakter Theorie zu überfordern, setzt code4future auf spielerische Zugänge, sprechende Metaphern und vertraute Lernumgebungen wie Minecraft. So wird der Einstieg ins Programmieren nicht nur verständlich, sondern auch motivierend gestaltet. Kinder werden darin gestärkt, digitale Kompetenzen selbstbewusst zu entwickeln und aktiv an der digitalen Gesellschaft teilzunehmen – als kreative Gestalter*innen ihrer Zukunft.
 
 Inspiriert von:
 * https://codeforfuture.eu
