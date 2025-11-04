@@ -648,17 +648,11 @@
            transform="matrix(1,0,0,-1,168.58,486.6)"><tspan
              id="tspan90"
              y="0"
-             x="0 8.6183996 16.2792 21.81732 30.323999 38.942402 47.465038">Python/</tspan></text>
+             x="0 8.6183996 16.2792 21.81732 30.323999 38.942402 47.465038">Python</tspan></text>
 </g></g><g
        id="g94"><g
          clip-path="url(#clipPath100)"
-         id="g96"><text
-           id="text104"
-           style="font-variant:normal;font-weight:bold;font-size:15.96000004px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,222.94,486.6)"><tspan
-             id="tspan102"
-             y="0"
-             x="0 8.4428396 17.02932 25.59984 29.525999 38.032681 45.358318 53.242561 66.21804">CodeCombat</tspan></text>
+         id="g96"><text id="text104" style="font-variant:normal;font-size:15.96px;font-family:Roboto;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,222.94,486.6)"> <tspan id="tspan102" y="0" x="0">(CodeCombat)</tspan></text>
 </g></g><g
        id="g106"><g
          clip-path="url(#clipPath112)"
