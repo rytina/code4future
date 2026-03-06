@@ -2,7 +2,7 @@
 
 Geflüchtete Kinder und Jugendliche stehen in Deutschland oft vor besonderen Herausforderungen, wenn es um Bildung und Integration geht. Sprachliche Barrieren, fehlender Zugang zu digitalen Lernmitteln und traumatische Erfahrungen erschweren häufig die Teilhabe am schulischen Alltag. Deshalb unterscheiden sich ihre Bildungsangebote bewusst von jenen für Kinder ohne Fluchthintergrund: Sie sollen nicht nur Wissen vermitteln, sondern auch Sicherheit, psychosoziale Stabilität, Sprachförderung und kulturelle Teilhabe. Der pädagogische Ansatz betont daher nicht nur das Lernen von Inhalten, sondern die Schaffung eines vertrauensvollen, motivierenden Umfelds, in dem Lernen als gemeinschaftliches Erlebnis erfahren wird.
 
-Spiele-basierte Lernumgebungen wie Minecraft, Minetest, Roblox Education, Kerbal Space Program Edu oder CodeCombat bieten hier eine einzigartige Chance. Die Computerspiele schaffen eine vertraute und interaktive Atmosphäre, in der Kinder unabhängig von Sprache oder Herkunft miteinander lernen können. Durch gemeinsames Bauen, Forschen und Programmieren entwickeln sie kollaborative, sprachliche, mathematische, räumliches Denken sowie digitale bzw. IT-bezogene Fähigkeiten. Ziel ist eine motivierende, partizipative Lernkultur, in der jedes Kind seine Stärken entfalten und Selbstvertrauen aufbauen kann.
+Spiele-basierte Lernumgebungen wie Minecraft, Minetest, Roblox Education, Kerbal Space Program Edu oder CodeCombat bieten hier eine einzigartige Chance. Die Computerspiele schaffen eine vertraute und interaktive Atmosphäre, in der Kinder unabhängig von Sprache oder Herkunft miteinander lernen können. Durch gemeinsames Bauen, Forschen und Programmieren entwickeln sie kollaborative, sprachliche, mathematische, räumliche sowie digitale bzw. IT-bezogene Fähigkeiten und stärken dabei ihr räumliches Denken. Ziel ist eine motivierende, partizipative Lernkultur, in der jedes Kind seine Stärken entfalten und Selbstvertrauen aufbauen kann.
 
 ### Integrationsprojekte mit digitalen Medien in Stuttgart
 
@@ -14,7 +14,7 @@ Die MoMO (getragen u.a. von der Stuttgarter Jugendhaus gGmbH und Merz Akademie) 
 
 #### **AWO-Projekt “Kids Cube”** – Empowerment und Medienkompetenz in Unterkünften
 
-Die AWO Stuttgart hat 2023 das Projekt *Kids Cube* für Kinder aus Gemeinschaftsunterkünften (8–12 Jahre) gestartet. Zentral ist ein von den Kindern mitgestaltetes modulartiges Möbel („Kids Cube“) als Lern- und Spielort. Anders als bei Coding-Angeboten liegt der Fokus hier nicht auf IT- oder Programmierfähigkeiten, sondern auf allgemeiner Medienkompetenz: Kinder lernen den bewussten, kreativen und sicheren Umgang mit digitalen Medien, etwa beim Fotografieren, Filmen oder Recherchieren im Internet.  („Kids Cube“) als Lern- und Spielort. Begleitet wird dies durch ein einjähriges Empowerment-Programm mit Workshops zu Medienkompetenz, sozialer Teilhabe und Gesundheit. Standorte: wechselnd in Unterkünften der Stadt (2).
+Die AWO Stuttgart hat 2023 das Projekt *Kids Cube* für Kinder aus Gemeinschaftsunterkünften (8–12 Jahre) gestartet. Zentral ist ein von den Kindern mitgestaltetes modulartiges Möbel („Kids Cube“) als Lern- und Spielort. Anders als bei Coding-Angeboten liegt der Fokus hier nicht auf IT- oder Programmierfähigkeiten, sondern auf allgemeiner Medienkompetenz: Kinder lernen den bewussten, kreativen und sicheren Umgang mit digitalen Medien, etwa beim Fotografieren, Filmen oder Recherchieren im Internet. Begleitet wird dies durch ein einjähriges Empowerment-Programm mit Workshops zu Medienkompetenz, sozialer Teilhabe und Gesundheit. Standorte: wechselnd in Unterkünften der Stadt (2).
 
 #### **AWO “Lernraum”** – Digitale Lernorte in Übergangswohnheimen
 
@@ -22,7 +22,7 @@ Ergänzend hat die AWO Stuttgart in mehreren Unterkünften einen *Lernraum* eing
 
 #### **Refugees4Refugees** – Computerkurse von Geflüchteten für Geflüchtete
 
-Das Netzwerk *Refugees4Refugees* (unterstützt von der Evangelischen Gesellschaft Stuttgart) ist eine Selbstorganisation Geflüchteter, die neben Beratung auch Workshops anbietet – z.B. niederschwellige Computerkurse für andere Geflüchtete. Hier werden Grundlagen im Umgang mit PC, Internet und Office vermittelt (kein spezieller Minecraft-Fokus, aber wichtige digitale Qualifizierung) (4).
+Das Netzwerk *Refugees4Refugees* (unterstützt von der Evangelischen Gesellschaft Stuttgart) ist eine Selbstorganisation Geflüchteter, die neben Beratung auch Workshops anbietet – z.B. niederschwellige Computerkurse für andere Geflüchtete. Hier werden Grundlagen im Umgang mit PC, Internet und Office vermittelt (4).
 
 #### **Hacker School @ Stuttgart** – Programmieren für alle Jugendlichen
 
