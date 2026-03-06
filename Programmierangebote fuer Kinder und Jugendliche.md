@@ -50,7 +50,7 @@ Ich besuche einmal pro Woche ein Flüchtlingsheim in Stuttgart, um Kinder und Ju
 
 1. **ComputerSpielSchule Stuttgart**. 
    URL: [https://computerspielschule-stuttgart.de](https://computerspielschule-stuttgart.de)
-   Ansprechpartner: Isabel Huber
+   Ansprechpartner: Dejan Simonović und Ahmed Özcan.
 2. **AWO Stuttgart**. „Kids Cube – Empowerment & Medienkompetenz.“  URL: [https://awo-stuttgart.de/migration/projekte-fuer-gefluechtete-kinder-und-jugendliche/awo-kids-cube](https://awo-stuttgart.de/migration/projekte-fuer-gefluechtete-kinder-und-jugendliche/awo-kids-cube) 
    Träger: AWO Stuttgart, gefördert durch Bürgerstiftung Stuttgart und Mercedes-Benz. Ansprechpartner: Edith Robin / Athanasios Axiotidis ([kidscube@awo-stuttgart.de](mailto:kidscube@awo-stuttgart.de)).
 3. **AWO Stuttgart**. „Lernraum – Digitale Lernorte in Übergangswohnheimen.“ *awo-stuttgart.de*. 
@@ -59,7 +59,7 @@ Ich besuche einmal pro Woche ein Flüchtlingsheim in Stuttgart, um Kinder und Ju
 4. **Evangelische Gesellschaft Stuttgart (eva)**. ([https://www.eva-stuttgart.de/unsere-angebote/angebot/migration-angebote-und-unterstuetzung-finden](https://www.eva-stuttgart.de/unsere-angebote/angebot/migration-angebote-und-unterstuetzung-finden))
    „Flüchtlinge für Flüchtlinge“
    URL: [https://refugees4refugees.org](https://refugees4refugees.org)
-   Ort: wechselnde Räume, z.B. Internationales Beratungszentrum der eva. Kontakt: über Plattform „Flüchtlinge für Flüchtlinge“.
+   Ort: wechselnde Räume, z.B. Internationales Beratungszentrum der eva. Kontakt: über Plattform „Flüchtlinge für Flüchtlinge“. Ansprechpartner: Rex Osa.
 5. **Ferry-Porsche-Stiftung**. „Hacker School @ Stuttgart (Projektseite).“ 
    [https://ferry-porsche-stiftung.de/projekte/hacker-school-programmieren-lernen-fur-kinder-und-jugendliche](https://ferry-porsche-stiftung.de/projekte/hacker-school-programmieren-lernen-fur-kinder-und-jugendliche)
 6. **Hacker School gGmbH**. „Hacker School – Offizielle Website.“ URL: [https://www.hacker-school.de](https://www.hacker-school.de)
@@ -70,7 +70,8 @@ Ich besuche einmal pro Woche ein Flüchtlingsheim in Stuttgart, um Kinder und Ju
 
     
 9. **Mobile Medienschule Stuttgart Ost** (MoMO) 
-    URL: [https://medienschule-stuttgart.de](https://medienschule-stuttgart.de)
+    URL: [https://medienschule-stuttgart.de](https://medienschule-stuttgart.de).
+    Ansprechpartner: Isabel Huber.
 10. **Bürgerstiftung Stuttgart**. Förderinitiative "Mittendrin" 
     URL: [https://www.buergerstiftung-stuttgart.de/mittendrin-projekte](https://www.buergerstiftung-stuttgart.de/mittendrin-projekte) 
 11. **Stuttgarter Nachrichten**. „Initiative für mehr Bildungsgerechtigkeit: Erstes Stuttgarter Lernmobil macht sich auf den Weg.“
