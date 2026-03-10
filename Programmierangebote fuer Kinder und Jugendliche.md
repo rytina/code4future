@@ -1,5 +1,10 @@
 ## Programmierangebote für geflüchtete Kinder und Jugendliche in Stuttgart
 
+<figure style="text-align: center;">
+  <img src="images/code_your_world.jpeg" alt="Code Your World" />
+  <figcaption><i>Bild KI-generiert von Gemini</i></figcaption>
+</figure>
+
 Geflüchtete Kinder und Jugendliche stehen in Deutschland oft vor besonderen Herausforderungen, wenn es um Bildung und Integration geht. Sprachliche Barrieren, fehlender Zugang zu digitalen Lernmitteln und traumatische Erfahrungen erschweren häufig die Teilhabe am schulischen Alltag. Deshalb unterscheiden sich ihre Bildungsangebote bewusst von jenen für Kinder ohne Fluchthintergrund: Sie sollen nicht nur Wissen vermitteln, sondern auch Sicherheit, psychosoziale Stabilität, Sprachförderung und kulturelle Teilhabe. Der pädagogische Ansatz betont daher nicht nur das Lernen von Inhalten, sondern die Schaffung eines vertrauensvollen, motivierenden Umfelds, in dem Lernen als gemeinschaftliches Erlebnis erfahren wird.
 
 Spiele-basierte Lernumgebungen wie Minecraft, Minetest, Roblox Education, Kerbal Space Program oder CodeCombat bieten hier eine einzigartige Chance. Die Computerspiele schaffen eine vertraute und interaktive Atmosphäre, in der Kinder unabhängig von Sprache oder Herkunft miteinander lernen können. Durch gemeinsames Bauen, Forschen und Programmieren entwickeln sie kollaborative, sprachliche, mathematische, räumliche sowie digitale bzw. IT-bezogene Fähigkeiten und stärken dabei ihr räumliches Denken. Ziel ist eine motivierende, partizipative Lernkultur, in der jedes Kind seine Stärken entfalten und Selbstvertrauen aufbauen kann.
@@ -43,6 +48,9 @@ Spezifische Programmierkurse nur für geflüchtete Kinder sind in Stuttgart selt
 Daneben fördern Stiftungen und Ehrenamtlichen-Netzwerke vielfältige digitale Lernangebote für junge Migrant*innen, von einfachen PC-Kursen bis zu professionellen Programmier-Workshops. Diese Projekte laufen aktuell und tragen dazu bei, dass geflüchtete Kinder und Jugendliche in Stuttgart digitale Kompetenzen erwerben und kreativ teilhaben können – auch wenn interaktive Lernumgebungen wie Minecraft/Minetest selbst dabei meist nur als eines von vielen Werkzeugen dient.
 
 Ich besuche einmal pro Woche ein Flüchtlingsheim in Stuttgart, um Kinder und Jugendliche bei ihren Hausaufgaben zu unterstützen und ihnen mit Minecraft und EduBlocks.org spielerisch den Einstieg in die Welt des Programmierens zu ermöglichen. Jeder von uns kann etwas bewirken – sei es als Fachkraft, Ehrenamtliche*r oder einfach als Mensch, der bereit ist, seine Zeit und Erfahrung zu teilen. Wenn du Lust hast, dich einzubringen und junge Menschen auf ihrem Bildungsweg zu begleiten, freue ich mich über eine Nachricht unter [andy.rytina@gmail.com](mailto:andy.rytina@gmail.com). 
+
+
+*Der Artikel wurde größtenteils mit Unterstützung von ChatGPT erstellt.*
 
 ---
 
