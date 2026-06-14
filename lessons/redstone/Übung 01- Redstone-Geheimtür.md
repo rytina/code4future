@@ -1,7 +1,7 @@
 # Redstone-Übung 1 – Baue deine eigene Geheimtür!
 
 ## Lernziel
-Die Teilnehmenden bauen eine Redstone-Geheimtür und lernen dabei die Grundlagen von Signalen, Zuständen, Speicherlogik und Redstone-Komponenten kennen.
+Die Teilnehmenden bauen eine Redstone-Geheimtür und lernen dabei, wie Informationen in einer Schaltung gespeichert und durch Signale verändert werden.
 
 ## Verwendete Bauteile
 - Redstone-Staub
@@ -42,16 +42,16 @@ Ein einzelner Stein dient als Speicherzustand:
 - Einführung in digitale Logik
 
 ## Reflexionsfragen
-- Warum merkt sich die Schaltung, ob die Tür offen oder geschlossen ist?
+- Wo speichert die Schaltung die Information, ob die Tür offen oder geschlossen ist?
 - Welche Aufgabe übernimmt der Komparator?
-- Warum wird der Hopper durch die Redstone-Fackel blockiert?
-- Wo werden ähnliche Speichermechanismen in Computern verwendet?
+- Warum darf der Stein nicht sofort wieder zurückwandern?
+- Welche zwei Zustände kennt die Schaltung?
+- Wie könnte man die Tür mit einem Geheimcode statt mit einem einzelnen Knopf öffnen?
+- Wo gibt es außerhalb von Minecraft Geräte, die sich einen Zustand merken müssen?
 
 ## Transfer zur Informatik
-Die Schaltung demonstriert grundlegende Konzepte moderner Computersysteme:
-- Speicherzustände
-- Eingabe (Knopf)
-- Verarbeitung (Redstone-Logik)
-- Ausgabe (Tür öffnet oder schließt)
-
-Damit bildet die Übung eine Brücke zwischen Minecraft-Redstone und den Grundlagen der Informatik.
+Die Schaltung demonstriert das Prinzip eines Speichers: Eine Information wird durch einen Zustand dargestellt und kann durch Eingaben verändert werden. Somit soll Dir diese Übung dabei helfen folgende Begriffe aus der Informatik besser zu verstehen. Sie bilden die Grundlage, wie Computer funktionieren:
+- Speicherzustände (An und aus)
+- Eingabe (Knopfdruck)
+- Verarbeitung (Redstone-Steuerung entscheidet, was passiert)
+- Ausgabe (Piston öffnet oder schließt die Tür)
