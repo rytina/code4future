@@ -1,12 +1,8 @@
-# 🏇 Pferde-Duell Arena bauen
+# Teamübung 01 - Pferde-Duell Arena bauen
 
-## 🎯 Aufgabe
-Baut gemeinsam eine Arena, in der zwei Spieler auf Pferden gegeneinander antreten können.
+Baut gemeinsam eine Arena, in der zwei Spieler auf Pferden gegeneinander antreten können und richtig Spaß macht.
 
-## 🧱 Eure Aufgabe
-Gestaltet eine spannende Arena, in der ein Pferde-Duell richtig Spaß macht.
-
-## 🏟️ Was ihr einbauen sollt
+## Was ihr einbauen sollt
 
 ### 1. Rennbahnen
 - Zwei getrennte Bahnen für die Pferde
@@ -24,10 +20,7 @@ Gestaltet eine spannende Arena, in der ein Pferde-Duell richtig Spaß macht.
 - Eine kleine Tribüne oder Plattform
 - Damit andere gut zuschauen können
 
-## ⚡ Wichtig
+## Wichtig
 - Die Arena soll für beide Spieler fair sein
 - Sie soll spannend und abwechslungsreich sein
 - Ihr dürft eigene kreative Ideen einbauen
-
-## 🧠 Tipp
-"Wie können wir die Arena so bauen, dass es richtig aufregend und spannend ist?"
