@@ -9,7 +9,7 @@ Baut gemeinsam eine Arena, in der Spieler auf Pferden gegeneinander antreten kö
 * Eine deutliche Trennung zwischen den Bahnen (z. B. mit Zäunen, Mauern oder Hecken), damit sich die Reiter während des Rennens nicht in die Quere kommen.
 
 ### 2. Hindernisse
-* Macht die Strecke spannend! Baut auf jeder Bahn Hindernisse ein. Zum Beispiel Zäune zum Drüberspringen oder Schlamm (Seelensand), der die Pferde ausbremst.
+* Macht die Strecke spannend! Baut auf jeder Bahn drei Hindernisse ein. Zum Beispiel Zäune zum Drüberspringen oder Schlamm (Seelensand), der die Pferde ausbremst.
 
 ### 3. Die Stallungen
 * Ein eigener Stallbereich für die Pferde.
