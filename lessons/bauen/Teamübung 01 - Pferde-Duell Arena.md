@@ -1,6 +1,6 @@
 # Teamübung 01 - Pferde-Duell Arena bauen
 
-Baut gemeinsam eine spektakuläre Arena, in der zwei Spieler auf Pferden gegeneinander antreten können. Neben der eigentlichen Rennstrecke gehört diesmal auch ein voll ausgestatteter Stall- und Vorbereitungsbereich dazu!
+Baut gemeinsam eine Arena, in der Spieler auf Pferden gegeneinander antreten können. 
 
 ## Was ihr einbauen sollt
 
