@@ -1,112 +1,163 @@
 # EduBlocks-Übung 01 – Der kleine Schatzsucher
 
-Kurzbeschreibung
-----------------
-Story: Ein kleiner Held steht auf einem 5×5‑Raster und soll eine Schatztruhe finden. Die Kinder programmieren Schritt‑für‑Schritt mit EduBlocks, damit der Held Hindernisse umgeht und den Schatz einsammelt.
+## Kurzbeschreibung
 
-Zielgruppe
-----------
-Ca. 8–10 Jahre (auch jüngere Kinder mit Unterstützung)
+Die Kinder programmieren in EduBlocks einen kleinen Minecraft-Abenteurer. Ziel ist es, eine Schatztruhe in einer vorbereiteten Minecraft-Welt zu erreichen. Die erstellten Blöcke werden nicht direkt ausgeführt, sondern über eine speziell für den Kurs bereitgestellte EduBlocks-Erweiterung in Minescript-Code umgewandelt. Anschließend wird der Code in Minecraft getestet.
 
-Dauer
------
-30–45 Minuten
+## Zielgruppe
 
-Lernziele
----------
-- Reihenfolge von Anweisungen (Sequenzen)
-- Wiederholungen (Schleifen)
-- Einfache Bedingungen (if)
-- Funktionen/Prozeduren (wiederverwendbare Bausteine)
-- Basis‑Debugging: schrittweises Testen
+- 8–12 Jahre
+- Keine Programmiererfahrung erforderlich
 
-Material & Setup
-----------------
-- EduBlocks im Browser (https://edublocks.org) oder lokale Version
-- Optional: micro:bit oder Simulator
-- Optional offline: Ausdruck eines 5×5‑Rasters und Spielfiguren
-- Vorbereitete Szene: Raster mit Startposition, 1 Schatz, 1–2 Hindernissen
+## Dauer
 
-Ablauf (Schritt‑für‑Schritt)
----------------------------
-1) Einstieg (5 min)
-   - Erzähle die Story: "Unser Held will den Schatz holen, aber auf dem Weg stehen Hindernisse!"
-   - Zeige das Raster und die Positionen (Start, Schatz, Hindernis).
+45–60 Minuten
 
-2) Demo (5 min)
-   - Führe live vor: forward(), forward(), turn_right(), forward() → Schatz.
-   - Lass die Kinder vorhersagen, ob es klappt.
+## Lernziele
 
-3) Aufgabe 1 – Einfache Sequenz (10 min)
-   - Ziel: Schreibe eine feste Abfolge von Befehlen, damit der Held zum Schatz kommt.
-   - Blöcke: forward(), turn_left(), turn_right().
-   - Tipp: Testet nach jedem Block („ein Schritt testen“).
+- Befehle in der richtigen Reihenfolge verwenden
+- Schleifen verstehen und einsetzen
+- Bedingungen kennenlernen
+- Programme testen und Fehler finden
+- Zusammenhang zwischen Blockprogrammierung und Python-Code verstehen
 
-4) Aufgabe 2 – Funktion einführen (5–10 min)
-   - Zeige, wie man eine Funktion erstellt, z. B. def gehe(steps): repeat steps: forward()
-   - Vorteil: Code bleibt übersichtlich, Aufgaben wiederverwenden.
+## Material & Setup
 
-5) Aufgabe 3 – Hindernis & Bedingung (10 min)
-   - Füge ein Hindernis ein (z. B. ein Stein vor dem Weg).
-   - Verwende Bedingung: if obstacle_ahead(): turn_right() else: forward()
-   - Testen, beobachten, anpassen.
+### Für die Teilnehmenden
 
-6) Abschluss & Reflexion (5 min)
-   - Zeige Lösungsvorschläge, sprecht über Fehlerquellen.
+- PC oder Laptop
+- Minecraft Java Edition
+- Vorbereitete Kurswelt
+- EduBlocks im Browser
 
-Konkrete Blocks / Beispiel‑Pseudocode
--------------------------------------
-- Funktion definieren:
-  - def gehe(steps):
-      repeat steps:
-        forward()
+### Für das Lehrpersonal
 
-- Hauptprogramm (ein mögliches Beispiel):
-  - gehe(2)
-  - turn_right()
-  - if obstacle_ahead():
-      turn_left()
-      forward()
-      turn_right()
-    else:
-      forward()
-  - if at_treasure():
-      pick_up_treasure()
+- Minecraft-Server oder lokale Welt mit vorbereiteter Schatzsuche
+- Installiertes Minescript
+- EduBlocks-Erweiterung „Code4Future Minescript"
+- Beispielprogramme zum Vorführen
 
-Lehrerhinweise / Tipps
-----------------------
-- Immer schrittweise testen (nicht sofort 20 Befehle ausführen).
-- Visualisiere den Plan zuerst auf Papier (5×5 Raster).
-- Wenn nichts funktioniert: Prüft Startrichtung und Schrittanzahl.
-- Ermutige lautes Denken: "Warum ist mein Held stecken geblieben?"
+## Vorbereitung durch das Lehrpersonal
 
-Differenzierung / Erweiterungen
---------------------------------
-- Einfacher: Kein Hindernis, kürzerer Parcours (z. B. 3×3).
-- Schwerer: Zufalls‑Hindernisse, Punkte zählen, Zeitlimit.
-- Team‑Challenge: Wer programmiert die kürzeste/robusteste Lösung?
-- Anschlussaktivität: Überführung zu MakeCode (gleiche Logik, andere Oberfläche).
+1. Die vorbereitete Minecraft-Welt starten.
+2. Die Schatztruhe an der vorgesehenen Position platzieren.
+3. Die EduBlocks-Erweiterung bereitstellen.
+4. Kurz demonstrieren, wie aus Blöcken Python-Code und anschließend Minescript-Code erzeugt wird.
+5. Testen, ob alle Teilnehmenden den generierten Code in Minecraft ausführen können.
 
-Bewertungskriterien (kurz)
---------------------------
-- Funktionalität: Kommt der Held sicher zum Schatz?
-- Lesbarkeit: Sind Funktionen sinnvoll eingesetzt?
-- Robustheit: Reagiert das Programm auf Hindernisse?
-- Teamarbeit: Haben alle mitgemacht?
+## Ablauf
 
-Reflexionsfragen (für Kinder)
------------------------------
-- Was hat am meisten Spaß gemacht?
-- Wann hat euer Programm nicht funktioniert — warum?
-- Wie habt ihr das Problem gelöst?
-- Was würdet ihr beim nächsten Mal anders machen?
+### 1. Einstieg (5 Minuten)
 
-Druckbares Material (optional)
-------------------------------
-- 5×5 Raster‑Vorlage zum Ausdrucken
-- Karten mit Block‑Icons (forward, left, right, if, repeat)
-- Lösungsblatt mit Beispielreihenfolge
+Geschichte:
 
----
+> Ein Abenteurer hat Hinweise auf einen verborgenen Schatz gefunden. Eure Aufgabe ist es, ihn sicher zur Schatztruhe zu führen.
 
-Vorschlag Dateiname: lessons/edublocks/EduBlocks 01 - Der kleine Schatzsucher.md
+Die Kinder betrachten die vorbereitete Minecraft-Szene und überlegen gemeinsam einen möglichen Weg.
+
+### 2. Demonstration (5 Minuten)
+
+Das Lehrpersonal erstellt ein sehr kleines Programm:
+
+- Vorwärts gehen
+- Nach rechts drehen
+- Noch einmal vorwärts gehen
+
+Danach wird gezeigt, wie daraus Minescript-Code erzeugt und in Minecraft ausgeführt wird.
+
+### 3. Aufgabe 1 – Der direkte Weg (10 Minuten)
+
+Die Kinder erstellen eine feste Folge von Bewegungsbefehlen.
+
+Verwendete Blöcke:
+
+- vorwärts
+- links drehen
+- rechts drehen
+
+Ziel:
+
+Der Spieler erreicht die Schatztruhe ohne Hindernisse.
+
+### 4. Aufgabe 2 – Wiederholungen (10 Minuten)
+
+Nun wird ein längerer Weg verwendet.
+
+Neue Blöcke:
+
+- wiederhole n-mal
+
+Beispiel:
+
+- dreimal vorwärts laufen
+
+Die Kinder erkennen, dass sich wiederholende Befehle einfacher darstellen lassen.
+
+### 5. Aufgabe 3 – Hindernisse umgehen (10–15 Minuten)
+
+Auf dem Weg wird ein Hindernis platziert.
+
+Neue Blöcke:
+
+- wenn Hindernis voraus
+- sonst
+
+Die Kinder entwickeln eine einfache Logik zum Ausweichen.
+
+### 6. Abschluss (5 Minuten)
+
+Gemeinsame Vorführung mehrerer Lösungen.
+
+Besprechung:
+
+- Welche Lösung war am kürzesten?
+- Welche Lösung war am einfachsten zu verstehen?
+- Wo sind Fehler entstanden?
+
+## Beispiel für generierten Python-/Minescript-Code
+
+```python
+move_forward(3)
+turn_right()
+move_forward(2)
+open_chest()
+```
+
+Die Teilnehmenden müssen diesen Code nicht selbst schreiben. Er dient lediglich dazu zu zeigen, was EduBlocks im Hintergrund erzeugt.
+
+## Hinweise für das Lehrpersonal
+
+- Die Blockprogrammierung steht im Vordergrund, nicht die Syntax.
+- Kinder möglichst häufig testen lassen.
+- Fehler als normalen Bestandteil des Programmierens behandeln.
+- Bei Schwierigkeiten zunächst den Weg in Minecraft gemeinsam ablaufen.
+- Erst danach den Programmcode überprüfen.
+
+## Differenzierung
+
+### Einfacher
+
+- Kürzerer Weg
+- Keine Hindernisse
+- Gemeinsames Programmieren mit der Lehrkraft
+
+### Anspruchsvoller
+
+- Mehrere Hindernisse
+- Sackgassen
+- Bonus-Schatztruhe
+- Eigenständige Funktionen für häufig genutzte Bewegungen
+
+## Bewertungskriterien
+
+- Erreicht der Spieler den Schatz?
+- Werden Schleifen sinnvoll eingesetzt?
+- Wurde das Programm getestet und verbessert?
+- Arbeiten die Kinder konstruktiv zusammen?
+
+## Reflexionsfragen
+
+- Was war leichter als erwartet?
+- Wo seid ihr auf Probleme gestoßen?
+- Welche Blöcke waren besonders nützlich?
+- Was möchtet ihr als Nächstes in Minecraft automatisieren?
