@@ -16,7 +16,6 @@ Programmiert euren Agenten so, dass er:
 
 > 💡 **Tipp:** Verwendet die **„Agent Fence“**-Übung als Basis und baut zusätzlich **Slot-Befehle** ein.
 
----
 
 ## 2️⃣ Teilt euren Park ein
 
