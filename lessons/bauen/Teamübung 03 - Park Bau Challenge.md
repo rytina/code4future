@@ -4,8 +4,6 @@
 
 Programmiert euren Agenten und baut anschließend zusammen einen tollen Park!
 
----
-
 ## 1️⃣ Der Agent baut den Zaun
 
 Sucht euch einen freien Platz.
@@ -33,8 +31,6 @@ Schreibt auf jedes Schild den Namen des Bereichs.
 - ⛲️ Brunnen
 
 Oder denkt euch eigene Ideen aus!
-
----
 
 ## 3️⃣ Baut euren Park
 
