@@ -1,4 +1,4 @@
-# 🏜️ Pyramiden-Challenge
+# Pyramiden-Challenge
 
 ## 🎯 Eure Aufgabe
 
