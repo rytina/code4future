@@ -35,7 +35,7 @@ Oder denkt euch eigene Ideen aus!
 
 ## 3️⃣ Teamwork & Sterne
 
-Sprecht euch gut ab, wo der Agent startet, damit er nicht aus Versehen euren Tempel überbaut.
+Sprecht euch gut ab, wo der Agent startet und wo der Tempel oder die Statuen sein sollen.
 
 Helft euch gegenseitig!
 
