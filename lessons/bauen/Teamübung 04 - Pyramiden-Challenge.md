@@ -6,7 +6,7 @@ Bildet 2er-Teams wobei einer der Code-Meister ist und der andere der Bau-Meister
 
 ## 1️⃣ Der Agent baut die Pyramide (Code-Meister)
 
-Sucht euch einen freien Platz in der Wüste.
+Sucht euch einen freien Platz.
 
 Programmiert euren Agenten so, dass er:
 
