@@ -26,10 +26,10 @@ Baut von Hand eine coole Umgebung rund um die Pyramide auf.
 **Beispiele:**
 
 - 🌴 Eine Oase mit Wasser und Palmen
-- 🏛️ Einen beeindruckenden Tempel
+- 🏛️ Einen Tempel
 - 🐪 Wege, Fackeln oder kleine Statuen
 
-Oder denkt euch eigene ägyptische Ideen aus!
+Oder denkt euch eigene Ideen aus!
 
 ---
 
