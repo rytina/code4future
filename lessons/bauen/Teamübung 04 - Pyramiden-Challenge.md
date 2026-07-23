@@ -2,7 +2,7 @@
 
 ## 🎯 Eure Aufgabe
 
-Programmiert euren Agenten für den Pyramidenbau und gestaltet zusammen ein echtes Pharaonen-Tal!
+Programmiert euren Agenten für den Pyramidenbau und gestaltet zusammen ein Pharaonen-Tal!
 
 ## 1️⃣ Der Agent baut die Pyramide (Code-Meister)
 
