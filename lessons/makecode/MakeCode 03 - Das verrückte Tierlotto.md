@@ -28,7 +28,8 @@ Jetzt schauen wir in unsere "würfel"-Kiste hinein und prüfen, welche Zahl dari
 1. Gehe zu *Logik* und hole dir den hellblauen Block **`wenn < wahr > dann`**. Setze ihn direkt unter deine Variable (aber noch *in* die grüne Schleife!).
 2. Hole dir – ebenfalls aus *Logik* – den spitzen Vergleichs-Block **`< 0 = 0 >`** und setze ihn oben für das Wort `< wahr >` ein.
 3. Hole dir aus *Variablen* deinen roten **`würfel`**-Block und setze ihn in die erste Null.
-4. Dein fertiger Block sollte jetzt so aussehen: **`wenn < [würfel] = 1 > dann`**
+4. Ändere die zweite `0` in eine `1` um.
+5. Dein fertiger Block sollte jetzt so aussehen: **`wenn < [würfel] = 1 > dann`**
 
 ### 🐄 Schritt 4: Lass es regnen!
 
