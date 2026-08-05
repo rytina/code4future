@@ -75,8 +75,6 @@ Ich besuche einmal pro Woche ein Flüchtlingsheim in Stuttgart, um Kinder und Ju
    [https://forscherfreunde.de/das-minecraft-zukunftslabor-10-14-jahre](https://forscherfreunde.de/das-minecraft-zukunftslabor-10-14-jahre)
 8. **Stadt Stuttgart**. „Bildungsgerechtigkeit - Bildungsintegration“ 
    [https://www.stuttgart.de/leben/bildung/bildungsgerechtigkeit/bildungsintegration](https://www.stuttgart.de/leben/bildung/bildungsgerechtigkeit/bildungsintegration)
-
-    
 9. **Mobile Medienschule Stuttgart Ost** (MoMO) 
     URL: [https://medienschule-stuttgart.de](https://medienschule-stuttgart.de).
     Ansprechpartner: Isabel Huber.
