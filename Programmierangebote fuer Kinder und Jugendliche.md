@@ -82,6 +82,6 @@ Ich besuche einmal pro Woche ein Flüchtlingsheim in Stuttgart, um Kinder und Ju
     Ansprechpartner: Isabel Huber.
 10. **Bürgerstiftung Stuttgart**. Förderinitiative "Mittendrin" 
     URL: [https://www.buergerstiftung-stuttgart.de/die-projekte](https://www.buergerstiftung-stuttgart.de/die-projekte) 
-11. **Stuttgarter Nachrichten**. „Initiative für mehr Bildungsgerechtigkeit: Erstes Stuttgarter Lernmobil macht sich auf den Weg.“
-    URL: [https://www.stuttgarter-nachrichten.de/inhalt.initiative-fuer-mehr-bildungsgerechtigkeit-erstes-stuttgarter-lernmobil-macht-sich-auf-den-weg.d65459b4-ad34-4ad1-96b8-308f3b8656cf.html](https://www.stuttgarter-nachrichten.de/inhalt.initiative-fuer-mehr-bildungsgerechtigkeit-erstes-stuttgarter-lernmobil-macht-sich-auf-den-weg.d65459b4-ad34-4ad1-96b8-308f3b8656cf.html)
+11. **Stadtbibliothek Stuttgart** Schilling, Claudia: Das Stuttgarter Lernmobil – Bildung nimmt Fahrt auf!
+    URL: [https://opus4.kobv.de/opus4-bib-info/frontdoor/deliver/index/docId/18392/file/Lernmobil_Schilling.pdf](https://opus4.kobv.de/opus4-bib-info/frontdoor/deliver/index/docId/18392/file/Lernmobil_Schilling.pdf)
     Träger: Stadt Stuttgart, unterstützt durch Stuttgarter Bildungseinrichtungen und Ehrenamtliche.
