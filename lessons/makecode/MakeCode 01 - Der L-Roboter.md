@@ -2,29 +2,29 @@
 
 ## 🎯 Ziel der Übung
 
-Heute programmierst du zum ersten Mal einen Agenten. Du lernst, dass ein Computer Befehle **genau der Reihenfolge nach** ausführt, in der du sie programmierst.
+Heute programmierst du zum ersten Mal deinen eigenen Agenten. Du lernst, dass ein Computer Befehle **genau in der Reihenfolge** ausführt, in der du sie ihm gibst.
 
-Am Ende hat dein Agent einen kleinen Weg gebaut.
+Am Ende hat dein Agent einen kleinen Weg für dich gebaut.
 
 ---
 
 ## 📚 Das lernst du
 
+- Ein Programm mit einem Chat-Befehl starten
 - Den Agenten bewegen
-- Blöcke platzieren
-- Programme bestehen aus vielen einzelnen Befehlen
+- Blöcke in der Welt platzieren
 
 ---
 
-## 🏗️ Eure Aufgabe
+## 🏗️ Deine Aufgabe
 
-Programmiere deinen Agenten so, dass er:
+Nutze den Block **"Beim Chat-Befehl"** (nenne ihn z.B. "weg") und programmiere deinen Agenten so, dass er:
 
-1. **3 Felder nach vorne** läuft.
-2. Einen **Goldblock** setzt.
-3. Sich **nach rechts dreht**.
-4. Noch einmal **3 Felder nach vorne** läuft.
-5. Einen **Diamantblock** setzt.
+1. **Einen Schritt nach vorne** läuft.
+2. Einen **Goldblock** nach *unten* (oder *vorne*) setzt.
+3. Das Ganze noch **zweimal** wiederholt.
+4. Sich **nach rechts dreht**.
+5. Noch einmal **drei Schritte** läuft und dabei **Diamantblöcke** setzt.
 
 Wenn alles richtig programmiert wurde, entsteht ein Weg in Form eines **L**.
 
@@ -34,5 +34,5 @@ Wenn alles richtig programmiert wurde, entsteht ein Weg in Form eines **L**.
 
 Schaffst du es außerdem,
 
-- den Weg aus bunten Blöcken zu bauen?
-- den Buchstaben deines Namens zu bauen?
+- den Weg abwechselnd aus zwei verschiedenen, bunten Blöcken zu bauen?
+- den Anfangsbuchstaben deines Namens auf den Boden zu "zeichnen"?
