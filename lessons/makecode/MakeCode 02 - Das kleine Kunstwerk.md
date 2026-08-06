@@ -16,19 +16,20 @@ Du kombinierst mehrere Befehle zu einem Programm und gestaltest anschließend de
 
 ---
 
-## 🏗️ Eure Aufgabe
+## 🏗️ Deine Aufgabe
 
-Programmiere deinen Agenten so, dass er
+Programmiere deinen Agenten so, dass er:
 
-- ein **4 × 4 großes Feld** baut,
-- anschließend zur **Mitte** läuft,
+- ein **5 × 5 großes Feld** baut,
+- anschließend genau zur **Mitte** läuft,
 - dort einen **Glowstone** platziert.
 
 ---
 
 ## 💡 Tipps
 
-- Überlege zuerst, welche Reihenfolge dein Agent laufen soll und zeichne den Weg vorher mit Stift und Papier.
+- Überlege dir zuerst, welchen Weg dein Agent laufen soll, und zeichne ihn vorher mit Stift und Papier auf.
+- **Geheimtipp:** 5x5 bedeutet, dass 25 Blöcke gesetzt werden müssen. Das ist ganz schön viel Klickarbeit! Gibt es in MakeCode vielleicht einen bestimmten Block, mit dem dein Agent Dinge **wiederholen** kann, damit du nicht jeden Schritt einzeln bauen musst?
 
 ---
 
@@ -45,7 +46,7 @@ Zum Beispiel:
 
 ## ⭐ Bonus-Challenge
 
-Schaffst du es,
+Schaffst du es außerdem,
 
-- zwei verschiedene Muster zu bauen?
-- das Feld größer zu machen?
+- einen Rand aus Goldblöcken um dein Feld zu ziehen?
+- das Feld noch viel größer zu machen?
