@@ -2,7 +2,7 @@
 
 ![code4future infographic](infographics/code4future.svg)
 
-**code4future** ist ein Bildungsprojekt für Kinder und Jugendliche aus nicht technikaffinen oder bildungsnahen Haushalten – darunter auch geflüchtete Kinder, wie im Artikel [Programmierangebote für geflüchtete Kinder und Jugendliche in Stuttgart](./Programmierangebote%20fuer%20Kinder%20und%20Jugendliche.md) beschrieben.
+**code4future** ist ein Bildungsprojekt für Kinder und Jugendliche aus nicht technikaffinen oder bildungsnahen Haushalten – darunter auch geflüchtete Kinder, wie im Artikel [Programmierangebote für geflüchtete Kinder und Jugendliche in Stuttgart](https://rytina.github.io/code4future/Programmierangebote fuer Kinder und Jugendliche.html) beschrieben.
 
 Das Projekt möchte allen jungen Menschen – unabhängig von ihrer sozialen Herkunft – den Zugang zur Informatik erleichtern. Statt sie mit abstrakter Theorie zu überfordern, nutzt code4future spielerische Zugänge, sprechende Metaphern und vertraute Lernumgebungen wie Minecraft, um das Programmieren verständlich und motivierend zu gestalten. Ziel ist es, Kinder zu befähigen, digitale Kompetenzen selbstbewusst zu entwickeln und aktiv an der digitalen Gesellschaft teilzunehmen – als kreative Gestalter*innen ihrer Zukunft.
 
