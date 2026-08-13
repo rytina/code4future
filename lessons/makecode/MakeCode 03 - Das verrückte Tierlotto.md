@@ -9,7 +9,8 @@ Dabei lernst du, wie der Computer **Zufallszahlen** zieht, wie er sie sich in ei
 Damit es richtig Spaß macht, wollen wir gleich 10 Tiere nacheinander spawnen lassen.
 
 1. Hole dir aus der Kategorie *Spieler* den Block **`bei Chat-Befehl`** und nenne ihn `"tierlotto"`.
-2. Gehe zu *Schleifen* und ziehe den grünen Block **`[ 10 ] -mal wiederholen`** in deinen Chat-Befehl.
+2. Gehe zu *Schleifen* und ziehe den grünen Block **`[ 4 ] -mal wiederholen`** in deinen Chat-Befehl.
+3. Ändere die 4 in eine 10 um.
 
 ### 📦 Schritt 2: Die Kiste für unsere Glückszahl (Variable)
 
