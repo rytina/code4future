@@ -33,7 +33,7 @@ Die folgende Übersicht zeigt, wie der Jahreslehrplan von code4future strukturie
 
 ## Fazit
 
-**code4future** bietet einen klar strukturierten, phasenbasierten Plan, der – ähnlich wie [CSD von Code.org](https://studio.code.org/courses/csd-2025) – darauf abzielt, zentrale digitale Kompetenzen zu fördern, dabei jedoch konsequent *Minecraft* einsetzt, um Motivation und Lernerlebnis zu steigern.
+**code4future** bietet einen klar strukturierten, phasenbasierten Plan, der – ähnlich wie [CSD von Code.org](https://studio.code.org/de/courses/csd-2026) – darauf abzielt, zentrale digitale Kompetenzen zu fördern, dabei jedoch konsequent *Minecraft* einsetzt, um Motivation und Lernerlebnis zu steigern.
 
 Im Mittelpunkt steht die Förderung von **Programmier-, Medien- und Zukunftskompetenzen** durch spielerisches Lernen mit EduBlocks.org, MakeCode, Python und Hardware-Experimenten. Dabei werden Themen wie **Chancengleichheit, digitale Teilhabe und interkulturelles Lernen** praktisch erlebbar gemacht.
 
