@@ -1,6 +1,6 @@
 # MakeCode-Übung 04 - Das Agenten-Navi
 
-Stell dir vor, dein Agent ist ein ferngesteuertes Auto, und du bist der Navigator. Anstatt ihm jeden Schritt nacheinander zu sagen, gibst du ihm vor dem Start einen **Spickzettel** (eine Liste) mit auf den Weg. Der Agent liest den Zettel von oben nach unten und führt alle Befehle automatisch aus!
+Stell dir vor, dein Agent ist ein ferngesteuertes Auto, und du bist der Navigator. Anstatt ihm jeden Schritt nacheinander zu übergeben, gibst du ihm vor dem Start einen **Spickzettel** (eine Liste) mit auf den Weg. Der Agent liest den Zettel von oben nach unten und führt alle Befehle automatisch aus!
 
 ## 🎯 Ziel der Übung
 
