@@ -21,7 +21,7 @@ Wir brauchen einen neuen Chat-Befehl und unsere Liste. Eine Liste heißt beim Pr
 2. Ziehe den Block **Agent, teleportiere zu Spieler** in den Chat-Befehl.
 3. Ziehe den Block **Agent: Block oder Gegenstand (x) in Slot 1...** unter den Teleportier-Befehl und setze den Gegenstand z.B. auf Diamant.
 4. Gehe zu **Fortgeschritten -> Arrays** und hänge den Block **setze 'text list' auf Array von [ "a", "b", "c" ]** darunter.
-5. Klicke mit der linken Maustaste auf den Pfeil nach 'text list' und wähle "Neue Variable..." aus und benenne sie "route".  Diese Variable enthält unseren Spickzettel mit der route. 
+5. Klicke mit der linken Maustaste auf den Pfeil nach 'text list' und wähle "Neue Variable..." aus und benenne sie "route".  Diese Variable enthält unseren Spickzettel mit der Route. 
   *Tipp: Benenne Variablen immer nachdem was sie enthalten, damit man deinen Code besser verstehen kann.*
 6. Gehe zu **Variablen**, klicke auf *Variable erstellen* und nenne sie `route`.
 7. Schreibe anstatt "a", "b", "c" die Richtungen hinein wohin sich dein Roboter bewegen soll.
