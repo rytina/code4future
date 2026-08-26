@@ -1,57 +1,273 @@
-# MakeCode-Übung 04 - Das Agenten-Navi
+# 🤖 MakeCode-Übung 04 – Das Agenten-Navi
 
-Stell dir vor, dein Agent ist ein ferngesteuertes Auto, und du bist der Navigator. Anstatt ihm jeden Schritt nacheinander zu übergeben, gibst du ihm vor dem Start einen **Spickzettel** (eine Liste) mit auf den Weg. Der Agent liest den Zettel von oben nach unten und führt alle Befehle automatisch aus!
+Heute bekommt dein Agent ein **Navi**!
 
-## 🎯 Ziel der Übung
+Du sagst ihm nicht mehr jeden Schritt einzeln.
+Stattdessen bekommt er vorher eine **Route**:
 
-Du programmierst ein „Navi“ mit einer Liste. Der Agent liest die Liste und baut daraus automatisch die bekannte **L-Form**.
+**vor → vor → vor → rechts → vor → vor → vor**
 
-## 📚 Das lernst du
+Dann läuft der Agent die Route ganz alleine ab.
 
-* Was eine **Variable** und eine **Liste (Array)** ist.
-* Wie eine **Schleife** eine Liste ausliest.
-* Wie der Agent mit **Wenn-Dann-Logik** Entscheidungen trifft.
+> ## 🧠 Regel
+>
+> **Erst selbst versuchen → dann Hilfe holen → anschließend erklären.**
+>
+> Fehler sind erlaubt.
+> Probier zuerst deine eigene Idee aus!
 
-## 🏗️ Deine Aufgabe
+## 🎯 Deine Mission
 
-**Den Chat-Befehl und den Spickzettel erstellen:**
-Wir brauchen einen neuen Chat-Befehl und unsere Liste. Eine Liste heißt beim Programmieren oft **Array**.
+Programmiere deinen Agenten so, dass er automatisch ein großes **L** auf den Boden baut.
 
-1. Hol dir den Block **Beim Chat-Befehl** und nenne ihn `"navi"`.
-2. Ziehe den Block **Agent, teleportiere zu Spieler** in den Chat-Befehl.
-3. Ziehe den Block **Agent: Block oder Gegenstand (x) in Slot 1...** unter den Teleportier-Befehl und setze den Gegenstand z.B. auf Diamant.
-4. Gehe zu **Fortgeschritten -> Arrays** und hänge den Block **setze 'text list' auf Array von [ "a", "b", "c" ]** darunter.
-5. Klicke mit der linken Maustaste auf den Pfeil nach 'text list' und wähle "Neue Variable..." aus und benenne sie "route".  Diese Variable enthält unseren Spickzettel mit der Route. 
-  *Tipp: Benenne Variablen immer nachdem was sie enthalten, damit man deinen Code besser verstehen kann.*
-7. Schreibe anstatt "a", "b", "c" die Richtungen hinein wohin sich dein Roboter bewegen soll.
+So ungefähr:
 
-*Tipp für das L:* Deine Liste sollte so aussehen: `["vor", "vor", "vor", "rechts", "vor", "vor", "vor"]` (Tippe auf das kleine `+` am Block, um mehr Platz zu machen).
+```text
+■
+■
+■
+■ ■ ■ ■
+```
 
-**Den Agenten die Liste lesen lassen:** Schleifen.
-Jetzt hat der Agent den Spickzettel (`route`), aber er muss ihn noch Wort für Wort durchlesen.
+Dabei lernst du etwas Neues:
 
-1. Gehe zu **Schleifen**.
-2. Nimm den Block **Für Element 'Wert' von 'Liste'**.
-3. Ziehe diesen Block *unter* deine Liste in den Chat-Befehl.
-4. Ändere das Wort `'liste'` am Ende des Blocks in deine Variable `'route'`.
+👉 Der Agent kann sich **mehrere Befehle merken** und sie nacheinander ausführen.
 
-*Was passiert hier?* Der Agent guckt sich nun nacheinander jedes Wort auf dem Zettel an. Das aktuelle Wort merkt er sich unter dem Namen **'Wert'**.
+# 1️⃣ Denken – Welche Route braucht der Agent?
 
-**Dem Agenten beibringen, was die Wörter bedeuten:** Wenn-Dann Logik.
-Der Agent weiß noch nicht, was `"vor"` oder `"rechts"` bedeutet. Das müssen wir ihm mit **Wenn... dann** erklären.
+Stell dir vor, du bist selbst der Agent.
 
-1. Gehe zu **Logik** und ziehe den **Wenn  dann**-Block in deine Schleife.
-2. Klicke auf das kleine `+` unten am Block, um ein **ansonsten wenn** hinzuzufügen.
-3. Nimm aus **Logik** den Vergleichs-Block `< " " = " " >` und packe ihn in die Wenn-Bedingung.
-4. Vergleiche: **Wenn `Wert` = `"vor"` dann:**
-* Lass den Agenten *1 Schritt nach vorne* gehen.
-* Ziehe **Agent, zerstöre nach vorne** darunter und ändere die Auswahl in "nach unten" um.
-* Lass den Agenten einen Block nach *unten* setzen.
-5. Vergleiche: **Ansonsten wenn `Wert` = `"rechts"` dann:**
-* Lass den Agenten sich nach *rechts* drehen.
+Du möchtest ein **L** laufen.
 
-## ⭐ Bonus-Challenge für Profis
+Welche Befehle brauchst du?
 
-Wenn dein Agent das "L" erfolgreich baut, versuche Folgendes:
+Zum Beispiel:
 
-* Kannst du die Liste so verändern, dass der Agent ein **Quadrat** baut, ohne dass du neue Blöcke aus dem Menü holen musst? Du darfst *nur* Wörter in deiner Liste ändern oder hinzufügen!
+```text
+vor
+vor
+vor
+rechts
+vor
+vor
+vor
+```
+
+Diese Wörter speichern wir gleich in einer **Liste**.
+
+Eine Liste ist wie ein kleiner **Spickzettel für den Agenten**.
+
+---
+
+# 2️⃣ Bauen – Erstelle dein Navi
+
+Erstelle einen neuen Chat-Befehl:
+
+```text
+navi
+```
+
+Ganz am Anfang soll dein Agent:
+
+1. zu dir teleportiert werden
+2. Baublöcke bekommen
+
+Zum Beispiel **Diamantblöcke**.
+
+Jetzt brauchen wir die Route.
+
+Gehe zu:
+
+**Fortgeschritten → Arrays**
+
+Dort findest du einen Block mit mehreren Wörtern.
+
+Erstelle eine neue Variable mit dem Namen:
+
+```text
+route
+```
+
+Trage diese Route ein:
+
+```text
+vor
+vor
+vor
+rechts
+vor
+vor
+vor
+```
+
+💡 Mit dem kleinen **+** kannst du weitere Wörter hinzufügen.
+
+## 📦 Was ist `route`?
+
+`route` ist der Name unseres Spickzettels.
+
+Darin stehen mehrere Befehle:
+
+```text
+["vor", "vor", "vor", "rechts", "vor", "vor", "vor"]
+```
+
+Beim Programmieren nennt man so etwas eine **Liste**.
+
+Manchmal hört man dafür auch das Wort **Array**.
+
+# 3️⃣ Der Agent liest den Spickzettel
+
+Jetzt kennt der Agent die Route.
+
+Aber er muss die Wörter noch **nacheinander lesen**.
+
+Gehe zu:
+
+**Schleifen**
+
+und suche:
+
+**Für Element `Wert` von `Liste`**
+
+Ziehe den Block unter deine Route.
+
+Statt **Liste** wählst du:
+
+```text
+route
+```
+
+Jetzt passiert etwas Spannendes:
+
+Der Agent liest immer **ein Wort nach dem anderen**.
+
+Das Wort, das er gerade liest, heißt:
+
+```text
+Wert
+```
+
+# 4️⃣ Was bedeutet „vor“?
+
+Jetzt müssen wir dem Agenten erklären:
+
+> Wenn auf meinem Spickzettel **vor** steht, gehe einen Schritt vorwärts.
+
+Hole aus **Logik** einen:
+
+**Wenn ... dann**
+
+Block.
+
+Prüfe:
+
+```text
+Wenn Wert = "vor"
+```
+Dann soll der Agent:
+
+1. **1 Block vorwärts gehen**
+2. den Block **unter sich zerstören**
+3. dort **einen Block setzen**
+
+So entsteht beim Laufen eine Spur.
+
+# 5️⃣ Was bedeutet „rechts“?
+
+Füge mit dem kleinen **+** hinzu:
+
+**ansonsten wenn**
+
+Prüfe:
+
+```text
+Wert = "rechts"
+```
+
+Dann soll sich der Agent:
+
+```text
+nach rechts drehen
+```
+
+Mehr braucht er noch nicht!
+
+# ▶️ Probier dein Navi aus!
+
+Gehe zurück nach Minecraft und schreibe:
+
+```text
+navi
+```
+
+Beobachte deinen Agenten genau.
+
+### Hat er ein L gebaut?
+
+✅ Ja?
+
+Super! Dein Navi funktioniert.
+
+❌ Nein?
+
+Dann untersuche deinen Code.
+
+* Läuft der Agent in die richtige Richtung?
+* Dreht er sich an der richtigen Stelle?
+* Sind alle Wörter richtig geschrieben?
+
+# 🔍 Prüfen
+
+Verändere jetzt **nur deine Route**.
+
+Ändere keine anderen Programmblöcke.
+
+Was passiert bei:
+
+```text
+vor
+vor
+rechts
+vor
+```
+
+Und was passiert bei:
+
+```text
+vor
+rechts
+vor
+rechts
+vor
+```
+
+Probier es aus!
+
+# ⭐ Bonus-Challenge: Das Quadrat
+
+Kannst du deinen Spickzettel so verändern, dass der Agent ein **Quadrat** baut?
+
+Du darfst dafür **keine neuen Programmblöcke** holen.
+
+Du darfst nur die Wörter in deiner `route` verändern oder neue Wörter hinzufügen.
+
+💡 Tipp:
+
+Für ein Quadrat muss der Agent mehrmals:
+
+**laufen → drehen → laufen → drehen**
+
+# 🗣️ Zum Schluss: Erkläre deinen Code
+
+Zeige einem anderen Kind oder einem Trainer deinen Code.
+
+Kannst du diese drei Fragen beantworten?
+
+**1. Was ist `route`?**
+
+**2. Was macht die Schleife?**
+
+**3. Woher weiß der Agent, was `"vor"` und `"rechts"` bedeuten?**
+
+Wenn du das erklären kannst, hast du das **Agenten-Navi verstanden**. 🎉
