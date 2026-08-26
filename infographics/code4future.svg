@@ -644,12 +644,9 @@
          clip-path="url(#clipPath88)"
          id="g84"><text
            id="text92"
-           style="font-variant:normal;font-weight:bold;font-size:15.96000004px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,168.58,486.6)"><tspan
-             id="tspan90"
-             y="0"
-             x="0 8.6183996 16.2792 21.81732 30.323999 38.942402 47.465038">JavaScript &amp; Python</tspan></text>
-</g></g>
+           style="font-variant:normal;font-weight:bold;font-size:15.96px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,168.58,486.6)"><tspan id="tspan90" y="0" x="0">JavaScript &amp; Python</tspan></text>
+   </g></g>
 <g id="g106"><g
          clip-path="url(#clipPath112)"
          id="g108"><text
