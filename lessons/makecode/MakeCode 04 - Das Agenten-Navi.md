@@ -53,8 +53,6 @@ Diese Wörter speichern wir gleich in einer **Liste**.
 
 Eine Liste ist wie ein kleiner **Spickzettel für den Agenten**.
 
----
-
 # 2️⃣ Bauen – Erstelle dein Navi
 
 Erstelle einen neuen Chat-Befehl:
