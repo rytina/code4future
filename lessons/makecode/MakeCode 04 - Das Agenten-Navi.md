@@ -29,10 +29,6 @@ So ungefähr:
 ■ ■ ■ ■
 ```
 
-Dabei lernst du etwas Neues:
-
-👉 Der Agent kann sich **mehrere Befehle merken** und sie nacheinander ausführen.
-
 # 1️⃣ Denken – Welche Route braucht der Agent?
 
 Stell dir vor, du bist selbst der Agent.
