@@ -1,6 +1,9 @@
 # 🤖 MakeCode-Übung 04 – Das Agenten-Navi
 
 Stell dir vor, dein Agent ist ein ferngesteuertes Auto, und du bist der Navigator. Anstatt ihm jeden Schritt nacheinander zu übergeben, gibst du ihm vor dem Start einen **Spickzettel** (eine Liste) mit auf den Weg. Der Agent liest den Zettel von oben nach unten und führt alle Befehle automatisch aus!
+Tipp: Es ist einfacher, wenn du diesen Link https://minecraft.makecode.com/89998-29501-74082-58662 in deine MakeCode-Projekte importierst.
+
+![Importiere Aufgabe](../../images/makecode_aufgabe_importieren.png)
 
 ## 🎯 Ziel der Übung
 
