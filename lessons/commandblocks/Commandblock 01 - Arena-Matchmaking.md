@@ -1,8 +1,6 @@
 # 🎮 Commandblock-Übung 01 – Arena-Matchmaking
 
-> 🧠 **code4future-Prinzip:** Erst selbst versuchen → dann Hilfe holen → anschließend erklären.
-
-Stell dir vor, vor eurer Arena liegen zwei leuchtende Teamflächen: eine **rote** und eine **blaue**. Sobald auf beiden Flächen mindestens ein Spieler steht, startet automatisch ein Countdown. Danach werden beide Teams in die Arena teleportiert.
+Stell dir vor, vor eurer Arena liegen zwei Teamflächen: eine **rote** und eine **blaue**. Sobald auf beiden Flächen mindestens ein Spieler steht, startet automatisch ein Countdown. Danach werden beide Teams in die Arena teleportiert.
 
 So ähnlich funktionieren viele Matchmaking-Lobbys in Spielen.
 
@@ -23,22 +21,20 @@ Du baust mit Commandblöcken ein kleines Matchmaking-System:
 * Wie ein **Scoreboard** eine Zahl speichern kann.
 * Wie ein **Countdown** funktioniert.
 * Wie mehrere Commandblöcke zusammenarbeiten.
-* Wie man mit Zuständen arbeitet: **Warten → Countdown → Match**.
-
----
+* Wie man mit Zuständen arbeitet: Warten → Countdown → Match.
 
 # 🏗️ Schritt 1 – Baue die zwei Teamflächen
 
 Baue vor der Arena zwei Flächen, zum Beispiel jeweils **5 × 5 Blöcke**:
 
 ```text
-🟥 TEAM ROT             🟦 TEAM BLAU
+        🟥 TEAM ROT                      🟦 TEAM BLAU
 
-█████                   █████
-█████                   █████
-█████                   █████
-█████                   █████
-█████                   █████
+        ■ ■ ■ ■ ■                       ■ ■ ■ ■ ■
+        ■ ■ ■ ■ ■                       ■ ■ ■ ■ ■
+        ■ ■ ■ ■ ■                       ■ ■ ■ ■ ■
+        ■ ■ ■ ■ ■                       ■ ■ ■ ■ ■
+        ■ ■ ■ ■ ■                       ■ ■ ■ ■ ■
 ```
 
 Für diese Übung benutzen wir Beispielkoordinaten.
@@ -46,32 +42,30 @@ Für diese Übung benutzen wir Beispielkoordinaten.
 ### Rote Fläche
 
 ```text
-Start: X=10 Y=64 Z=20
-Größe: 5 × 3 × 5
+Start: X=-45 Y=28 Z=109
+Größe: 5 × 2 × 5
 ```
 
 Der Bereich wird so ausgewählt:
 
 ```mcfunction
-@a[x=10,y=64,z=20,dx=4,dy=2,dz=4]
+@a[x=-45,y=28,z=109,dx=4,dy=1,dz=4]
 ```
 
 ### Blaue Fläche
 
 ```text
-Start: X=20 Y=64 Z=20
-Größe: 5 × 3 × 5
+Start: X=-45 Y=28 Z=100
+Größe: 5 × 2 × 5
 ```
 
 Der Bereich wird so ausgewählt:
 
 ```mcfunction
-@a[x=20,y=64,z=20,dx=4,dy=2,dz=4]
+@a[x=-45,y=28,z=100,dx=4,dy=1,dz=4]
 ```
 
 > 💡 **Wichtig:** `dx=4` bedeutet: Vom Startblock aus werden noch 4 Blöcke weiter geprüft. Zusammen sind das also 5 Blöcke.
-
----
 
 # 🔎 Schritt 2 – Teste die Flächen
 
@@ -90,7 +84,7 @@ Stelle ihn auf:
 Teste zuerst Team Rot:
 
 ```mcfunction
-execute if entity @a[x=10,y=64,z=20,dx=4,dy=2,dz=4] run say Team Rot ist bereit!
+execute if entity @a[x=-45,y=28,z=109,dx=4,dy=1,dz=4] run say Team Rot ist bereit!
 ```
 
 Stell dich auf die rote Fläche.
@@ -102,12 +96,6 @@ Team Rot ist bereit!
 ```
 
 Teste danach Team Blau genauso.
-
-### 🤔 Denkfrage
-
-Was passiert, wenn niemand auf der Fläche steht?
-
----
 
 # 🧮 Schritt 3 – Der Match-Zustand
 
