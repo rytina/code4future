@@ -25,7 +25,7 @@ Euer Parkour braucht:
 
 **Eure Ideen:** Schwebende Inseln, schmale Brücken, Schleimblöcke, geheime Wege,...denkt euch eigene Hindernisse aus!
 
-## Schritt 3: Die große Parkour-Prüfung
+## Schritt 3: Die Parkour-Prüfung
 
 Tauscht eure Parkours mit einem anderen Team.
 
