@@ -14,6 +14,12 @@ Das Projekt möchte allen jungen Menschen – unabhängig von ihrer sozialen Her
 - [Minecraft Education](https://education.minecraft.net)
 - [Code.org](https://code.org)
 
+## Medium-Artikel synchronisieren
+
+Die Markdown-Datei [`Programmierangebote fuer Kinder und Jugendliche.md`](Programmierangebote%20fuer%20Kinder%20und%20Jugendliche.md) auf GitHub `main` ist die führende Fassung. Änderungen daran starten den Workflow **Prepare Medium article sync**; er prüft Links und stellt ein Medium-Übernahmepaket als Actions-Artefakt bereit. Der Workflow erstellt oder veröffentlicht keinen Medium-Artikel und benötigt keine Medium-Zugangsdaten.
+
+Übertrage das geprüfte Paket manuell in den bestehenden [Medium-Artikel](https://medium.com/@rytina/programmierangebote-f%C3%BCr-gefl%C3%BCchtete-kinder-und-jugendliche-in-stuttgart-db80e16d9d3d). Erst nach Sichtprüfung trägst du den im Paket genannten Artikel-Commit in [`medium-sync/last-synced-commit.txt`](medium-sync/last-synced-commit.txt) ein und übernimmst diese Statusänderung auf `main`. Das Paket zeigt den letzten bestätigten Stand sowie den noch ausstehenden Diff; bei Bedarf lässt es sich über **workflow_dispatch** erneut erzeugen.
+
 ---
 
 ## Phasen des Lehrplans
