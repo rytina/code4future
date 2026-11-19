@@ -31,6 +31,12 @@ Die folgende Übersicht zeigt, wie der Jahreslehrplan von code4future strukturie
 
 ---
 
+## Behaviour Packs für Minecraft Education
+
+Im neuen Bereich [**Behaviour Packs**](behaviour-packs/) dokumentieren wir, wie eigene Minecraft-Education-Verhaltenspakete mit JavaScript erstellt, installiert und getestet werden. Das erste Beispiel ist [**EduGuard**](behaviour-packs/EduGuard/): ein Schulserver-Schutzpaket mit Gegenstandssperren und Explosionsschutz (Version 1.0.0; Abnahmetest unter Education 26.32 noch ausstehend).
+
+---
+
 ## Fazit
 
 **code4future** bietet einen klar strukturierten, phasenbasierten Plan, der – ähnlich wie [CSD von Code.org](https://studio.code.org/de/courses/csd-2026) – darauf abzielt, zentrale digitale Kompetenzen zu fördern, dabei jedoch konsequent *Minecraft* einsetzt, um Motivation und Lernerlebnis zu steigern.

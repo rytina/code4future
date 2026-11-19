@@ -1,0 +1,15 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "EduGuard – Schulserver-Schutz",
+    "description": "Serverseitige Item-Sperren und Explosionsschutz. Education 26.32: Abnahmetest erforderlich.",
+    "uuid": "9c9e8cf4-2870-4f42-953e-b9c411020945",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    { "type": "data", "uuid": "45e7aa82-0890-4b5a-842e-b302ebf4c029", "version": [1, 0, 0] },
+    { "type": "script", "language": "javascript", "uuid": "888f6687-a039-4549-a583-d1354edc670f", "version": [1, 0, 0], "entry": "scripts/main.js" }
+  ],
+  "dependencies": [{ "module_name": "@minecraft/server", "version": "2.1.0" }]
+}
