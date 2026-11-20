@@ -86,9 +86,6 @@ world.beforeEvents.playerInteractWithBlock.subscribe(event => {
 world.beforeEvents.playerInteractWithEntity.subscribe(event => {
   if (isBanned(event.itemStack?.typeId)) deny(event, event.player);
 });
-world.beforeEvents.playerBreakBlock.subscribe(event => {
-  if (["minecraft:ice", "minecraft:frosted_ice"].includes(event.block.typeId)) deny(event, event.player);
-});
 world.beforeEvents.explosion.subscribe(event => {
   if (CONFIG.cancelExplosions) event.cancel = true;
 });

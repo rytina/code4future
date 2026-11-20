@@ -15,8 +15,8 @@ export const BANNED_ITEMS = new Set([
   ...FILLED_BUCKETS,
   ...[
     "ender_pearl", "chorus_fruit", "tnt", "tnt_minecart", "end_crystal",
-    "flint_and_steel", "fire_charge", "respawn_anchor", "dispenser", "dropper",
-    "ice", "frosted_ice", "water", "flowing_water", "lava", "flowing_lava",
+    "flint_and_steel", "fire_charge", "respawn_anchor",
+    "water", "flowing_water", "lava", "flowing_lava",
     "command_block", "chain_command_block", "repeating_command_block",
     "command_block_minecart", "structure_block", "structure_void", "allow", "deny",
     "border_block", "jigsaw", "lava_cauldron", "water_cauldron",
@@ -28,7 +28,7 @@ export function isBanned(id) {
 }
 
 export const BLOCKED_INTERACTIONS = new Set([
-  "minecraft:dispenser", "minecraft:dropper", "minecraft:respawn_anchor",
+  "minecraft:respawn_anchor",
   "minecraft:command_block", "minecraft:chain_command_block",
   "minecraft:repeating_command_block", "minecraft:structure_block",
 ]);
